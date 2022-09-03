@@ -1,0 +1,6 @@
+# Redirects from what the browser requests to what we serve
+/facebook          https://www.facebook.com/profile.php?id=100081674025033
+/website           https://linuxchad.xyz
+/research          https://cloud.servchad.xyz/index.php/s/f9ztdS9bDKc2fW2
+/mail              https://gmail.com
+
